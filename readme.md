@@ -1,5 +1,20 @@
 # Tetr.js
 
+## CZECH
+
+- Spustit hru v prohlížeči: https://infoek.cz/hry/tetris/index.html
+
+Ovládání hry - je možné ho upravit v "Controls" před spuštěním hry
+
+- **Otáčení vlevo:** Z
+- **Otáčení doprava:** X
+- **Otočit o 180:** Shift
+- **Podržení:** C
+- **Tvrdé upuštění:** Mezerník
+- **Otočit doleva:** Šipka doleva
+- **Otočit doprava:** Šipka vpravo: Pravá šipka
+- **Restart:** R
+
 ### Default Controls:
 
 Controls are configurable
